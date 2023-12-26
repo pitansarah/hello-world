@@ -8,3 +8,6 @@ My first repository on Github for "The Data Scientist's Toolbox" on Coursera fro
 <p> and machine learning/AI </p>
 <p> From here, I learned that I was less interested in the field of data analytics, and more interested the fields in statistics and machine learning, specifically statistics. This lead me to Johns Hopkins University's Data Science Specialization. So far, so good. I'm looking forward to learning.</p>
 <p> Update : I have been running into a lot of issues using the help guide. I'm working through them, but it's taking me a lot of time. This is to be expected, I guess, but it's a little bit unnerving. Hopefully I can get a hang of this. This is a little bit like writing a score, I guess, so I know I can do it. </p>
+<p> What's a little bit confusing is all of the ways that I can do one thing. This has made following the instruction manual difficult. I'll link the instruction manual here : </p>
+<p><center> https://docs.github.com/en/get-started/quickstart/hello-world</center></p>
+<p> I was having trouble locating the mini pencil icon in order to access the edit page. Let's look back at the tutorial. </p>
