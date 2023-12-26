@@ -11,3 +11,6 @@ My first repository on Github for "The Data Scientist's Toolbox" on Coursera fro
 <p> What's a little bit confusing is all of the ways that I can do one thing. This has made following the instruction manual difficult. I'll link the instruction manual here : </p>
 <p><center> https://docs.github.com/en/get-started/quickstart/hello-world</center></p>
 <p> I was having trouble locating the mini pencil icon in order to access the edit page. Let's look back at the tutorial. </p>
+<p> Below are the edits I made that I accidentally forgot to make to the README file. I made them to the edits-1 file, and they weren't correctly merged to the README file. Take two : </p>
+  <p> I am editing a branch called "readme-edits." I am not totally sure what I'm doing. This is going to take a lot, and I mean a lot of practice. I am very fascinated by all of this, however. </p>
+<p> So, using the manual's intstructions, I made changes, committed those changes, pulled those changes, and merged them to the main branch. But I'm still confused. When I merge edits, how is this displayed on the main branch? The first sentence of the branch "edits-1" isn't showing up as merged with the main branch--Oh, so I guess I did this correctly. I was under the impression that all of the edits would be merged to one file, which I guess is not true. Ok, on with the course. </p>
